@@ -11,4 +11,7 @@ phases:
     commands:
       - echo "Building Angular project..."
      
+artifacts:
+  files:
+    - '**/*'
 

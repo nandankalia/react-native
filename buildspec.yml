@@ -14,7 +14,7 @@ phases:
       - npm install -g react-native-cli
       - yarn
       - react-native link
-      - cd android
+     
       - pwd
       
   build:
